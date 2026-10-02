@@ -2,5 +2,8 @@ preciso lembrar de comprar:
 
 goiaba
 maçã
+banana
+abacaxi
+melancia
 
 essa é a minha lista de compras.
